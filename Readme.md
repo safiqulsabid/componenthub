@@ -5,5 +5,5 @@ Anyone can contribute on it. Your name will be published on our official website
 #### Offficial email: componenthub@proton.me
 
 ### Components List
-- Accordion
-    - accordion-1
+#### - Accordion
+####    - accordion-1
